@@ -1,109 +1,148 @@
-/* .heading{
-    color:red
+/* .box{
+    width: 100px;
+    height: 100px;
 }
 
 
-.inline{
-    display: inline;
-} */
+.red{
+    background: red;
+    float: left;
+}
 
-
-/* 
-a{
-    display: block;
-} */
-
-/* .boxgreen{
-    width: 100px;
-    height: 100px;
+.green {
     background: green;
 }
 
-.box{
-    margin: 10px 20px 30px 40px;
-    background: red;
-    color: white;
-    width: 100px;
-    height: 100px;
-} */
-
-
-/* .container{
-    margin: auto;
-    width: 80%;
-    height: 300px;
+.blue{
+    background: blue;
 }
 
+.yellow{
+    background: yellow;
+}
+
+.clr{
+    clear: both;
+} */
+
+/* 
+.container{
+    width: 90%;
+    height: 300px;
+    margin: auto;
+}
 
 .item{
     width: 30%;
     height: 100%;
-    display: inline-block;
-    margin-left: 2%;
+    float: left;
+    margin-left: 2.5%;
+}
+.item-icon{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.item-icon img {
+    margin-top: 10px;
+}
+
+.item-content{
+    float: left;
+    width: 80%;
+    height: 100%;
 } */
 
+
+/* .box{
+    width: 300px;
+    height: 300px;
+    background: gold;
+    padding: 10px 20px 30px 40px;
+} */
 
 
 /* .container{
     width: 90%;
-    height: 500px;
+    height: 600px;
     margin: auto;
-}
-
-.item{
-    width: 30%;
-    height: 100%;
-    display: inline-block;
-    margin-left: 2%;
 }
 
 
 .item-img{
-    width: 100%;
-    height: 50%;
+    width: 50%;
+    height: 100%;
+    float: left;
 }
-
-.item-img img{
+.item-img img {
     width: 100%;
     height: 100%;
 }
 
 .item-content{
-    width: 100%;
-    height: 50%;
-    background: gray;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.item-content ul li {
+    list-style-image: url("img/screenshot-www.engage.veented.com-2023.02.01-20_35_22.png");
+}
+
+.item-content button{
+    padding: 15px 20px;
+    border: none;
+    background: blue;
+    color: white;
+    font-weight: bolder;
+}
+
+.item-content h2 {
+    margin-top: 100px;
+} */
+
+/* p{
+    max-width: 300px;
+    min-width: 10px;
+
 } */
 
 
-.container{
+.navbar{
     width: 90%;
-    height: 300px;
+    height: 80px;
     background: gold;
     margin: auto;
 }
 
-.item{
-    width: 30%;
-    height: 100%;
-    background: gray;
-    margin-left: 2%;
-    /* display: inline-block; */
-    float: left;
-}
-
-.item-icon {
+.navbar-logo{
     width: 20%;
     height: 100%;
-    background: purple;
-    /* display: inline-block; */
+    background: gray;
     float: left;
 }
 
-.item-content {
-    width: 80%;
-    height: 100%;
-    background: green;
-    /* display: inline-block; */
-    float: left;
 
+.navbar-logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-links{
+    width: 50%;
+    height: 100%;
+    background: hotpink;
+    float: right;
+}
+
+.navbar-links ul li {
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+    list-style-type: none;
+}
+
+.navbar-links ul li a {
+    text-decoration: none;
+    color: white;
 }
