@@ -1,0 +1,148 @@
+/* .box{
+    width: 100px;
+    height: 100px;
+}
+
+
+.red{
+    background: red;
+    float: left;
+}
+
+.green {
+    background: green;
+}
+
+.blue{
+    background: blue;
+}
+
+.yellow{
+    background: yellow;
+}
+
+.clr{
+    clear: both;
+} */
+
+/* 
+.container{
+    width: 90%;
+    height: 300px;
+    margin: auto;
+}
+
+.item{
+    width: 30%;
+    height: 100%;
+    float: left;
+    margin-left: 2.5%;
+}
+.item-icon{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.item-icon img {
+    margin-top: 10px;
+}
+
+.item-content{
+    float: left;
+    width: 80%;
+    height: 100%;
+} */
+
+
+/* .box{
+    width: 300px;
+    height: 300px;
+    background: gold;
+    padding: 10px 20px 30px 40px;
+} */
+
+
+/* .container{
+    width: 90%;
+    height: 600px;
+    margin: auto;
+}
+
+
+.item-img{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.item-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.item-content{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.item-content ul li {
+    list-style-image: url("img/screenshot-www.engage.veented.com-2023.02.01-20_35_22.png");
+}
+
+.item-content button{
+    padding: 15px 20px;
+    border: none;
+    background: blue;
+    color: white;
+    font-weight: bolder;
+}
+
+.item-content h2 {
+    margin-top: 100px;
+} */
+
+/* p{
+    max-width: 300px;
+    min-width: 10px;
+
+} */
+
+
+.navbar{
+    width: 90%;
+    height: 80px;
+    background: gold;
+    margin: auto;
+}
+
+.navbar-logo{
+    width: 20%;
+    height: 100%;
+    background: gray;
+    float: left;
+}
+
+
+.navbar-logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-links{
+    width: 50%;
+    height: 100%;
+    background: hotpink;
+    float: right;
+}
+
+.navbar-links ul li {
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+    list-style-type: none;
+}
+
+.navbar-links ul li a {
+    text-decoration: none;
+    color: white;
+}
