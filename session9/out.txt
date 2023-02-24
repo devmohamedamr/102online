@@ -1,0 +1,12 @@
+z-index
+after ex
+root var 
+flexbox
+grid
+=====================
+media query
+font awesome
+--------------------------
+search : 
+background gradient
+object-fit
