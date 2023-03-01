@@ -1,0 +1,3 @@
+conditions (if)
+array 
+loop (while )

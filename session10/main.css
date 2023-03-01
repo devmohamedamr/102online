@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Cairo:wght@500&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+  font-family: var(--font);
+
+}
+
+:root{
+    --font:'Alata', sans-serif;
+    --color:rgb(89, 89, 144);
+    --size:10px;
+}
+
+body{
+    height: 3000px;
+}
+
+
+
+body {
+    /* background: gray; */
+}
+
+/* .container{
+    width: 90%;
+    height: 300px;
+    background: gold;
+    margin: 100px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item{
+    width: 22%;
+    height: 100%;
+    background: gray;
+    margin-top: 10px;
+} */
+
+/* @media (min-width:700px) and (max-width:900px) {
+    .item{
+        width: 40%;
+        height: 100%;
+        background: gray;
+        margin-top: 10px;
+    }
+} */
+
+/* @media (min-width:500px) and (max-width:699px) {
+    .item{
+        width: 80%;
+        height: 100%;
+        background: gray;
+        margin-top: 10px;
+    }
+} */
+
+
+@media print {
+    h1{
+        font-size: 100px;
+        color:blue
+    }
+}
